@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 1191 842"
+   version="1.1"
+   sodipodi:docname="VictoriaGate01.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.0617577"
+     inkscape:cx="415.21433"
+     inkscape:cy="373.11433"
+     inkscape:window-width="3200"
+     inkscape:window-height="1711"
+     inkscape:window-x="2392"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <rect
+       x="539.79084"
+       y="455.51382"
+       width="21.591634"
+       height="16.019599"
+       id="rect30" />
+    <style
+       id="style1">
+      .cls-1 {
+        stroke: #000;
+        stroke-width: .72px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke: #cf0000;
+        stroke-width: .29px;
+      }
+    </style>
+    <clipPath
+       id="clippath">
+      <rect
+         class="cls-2"
+         width="1191"
+         height="842"
+         id="rect1" />
+    </clipPath>
+  </defs>
+  <path
+     id="VGN07"
+     class="cls-1"
+     d="M477.9,327.98l-.38-15.35h3.79v-22.83h33.17v4.38h12.16v-2.21h7.49v26.12l.08.92-1.01.09-2.8.26-2.26.23-2.72.3-2.25.26-2.71.33-2.25.29-2.64.36-.03-.22-2.7.38c-2.37.35-4.74.72-7.11,1.12l-2.83.48c-2.37.41-4.73.85-7.08,1.31l-2.81.56-5.73,1.21-2.79.62-5.7,1.34-.83.2-.04-.15h-.02" />
+  <path
+     id="VGN04"
+     class="cls-1"
+     d="M534.5,318.06v-26.45h-.37v-6.19h.48v-5.87h.04v-10.95h-10.39v-11.83h41.38c.45.04.9.11,1.35.22.5.12.98.28,1.45.49.47.21.93.46,1.35.75,1.06.73,1.94,1.69,2.56,2.82.5.9.83,1.89.96,2.91.02.18.04.37.06.55h-.11v.99s.01,13.08.01,13.08v39.41h-8.26s-2.27.02-2.27.02l-2.6.04-2.27.05-2.58.07-2.25.07-2.74.11-2.26.11-2.7.15-2.27.14-2.7.18-.03-.39-2.26.17-2.66.22-.86.07-.08-.92" />
+  <path
+     id="VGC16"
+     class="cls-1"
+     d="M474.97,414.48l-11.64,1.5-7.08.88-2.81.33-7.08.8-2.82.3-7.09.72-2.82.27-7.1.63-2.82.24-7.11.55-2.82.2-7.11.47-11.02.78c-3.18-.72-5.76-3.02-6.86-6.09-1.1-3.07-.55-6.48,1.45-9.06l1.26.99c.48-.62,1.06-1.17,1.7-1.62l3.02-2.23-.36-.52c2.98-2.17,6.01-4.26,9.08-6.3l3.5-2.27c2.12-1.35,4.26-2.67,6.42-3.96l2.39-1.41c2.17-1.26,4.37-2.49,6.58-3.69l3.96-2.1c2.14-1.11,4.3-2.19,6.47-3.24l2.51-1.2c2.46-1.16,4.95-2.27,7.44-3.35l2.58-1.09c2.27-.95,4.55-1.86,6.84-2.74l2.63-1c2.3-.85,4.62-1.68,6.95-2.46l2.15-.76.38,1.08.16.53.16.53,8.92-2.76v7.31l-.03,1.06v7.06h-2.24v27.38h2.24v4.25" />
+  <path
+     id="VGC23"
+     class="cls-1"
+     d="M494.95,392.44v-5.9h-2.33v-9.23h-10.86s-.63,0-.63,0h-5.76v-12.29l1.12-.31c2.38-.66,4.76-1.3,7.15-1.91l2.71-.68c2.39-.59,4.8-1.15,7.2-1.69l2.73-.6c2.36-.51,4.73-.99,7.1-1.44l2.74-.51c2.37-.44,4.75-.85,7.14-1.23l2.77-.43c2.37-.36,4.75-.7,7.13-1.01l2.78-.35c2.38-.29,4.77-.56,7.16-.8l1.52-.15,1.27-.11,8.3-.66-.04-.61c2.54-.17,4.74,1.72,4.96,4.26l1.55,18.4c.04,1,.05,2,.03,3l-1.58,19.23c-.17,2.02-1.63,3.7-3.61,4.15l-.03-.15-12.73,2.8-7.09,1.47-2.77.56-7.11,1.39-2.78.53.03.15-17.05,3.02-2.79.46-7.11,1.13-2.8.41-.07-.45-7.12,1.05-.72.11v-3.81h.68v-17.79h18.94" />
+  <polygon
+     id="VGS32"
+     class="cls-1"
+     points="425.31 454.4 426.21 454.33 426.68 454.29 426.67 454.22 433.79 453.61 436.61 453.35 443.72 452.66 444.76 452.56 444.85 453.5 444.85 467.34 444.85 468.31 444.85 487.19 444.85 487.41 444.59 487.41 439.43 487.41 439.43 493.7 434.85 493.7 434.85 501.26 425.38 501.26 425.38 489.87 425.38 488.9 425.38 482.25 428.38 482.25 428.38 477.07 425.38 477.07 425.38 470.03 425.38 469.06 425.38 455.28 425.31 454.4" />
+  <polygon
+     id="VGS33"
+     class="cls-1"
+     points="445.22 453.46 445.22 452.48 446.55 452.37 453.65 451.6 453.66 451.68 456.49 451.35 456.48 451.28 463.57 450.43 465.14 450.23 465.45 452.57 465.46 492.79 462.1 492.79 462.1 492.77 457.31 492.77 447.38 492.77 447.38 492.61 447.38 487.41 445.48 487.41 445.22 487.41 445.22 487.19 445.22 468.31 445.22 467.34 445.22 453.46" />
+  <path
+     id="VGS35"
+     class="cls-1"
+     d="M465.81,452.52l10.39-1.36-.32-2.49.42-.06-.05-.36,7.02-.99.05.36,2.92-.44-.06-.36,7.12-1.09.23,1.44,2.8-.44-.23-1.44,7.13-1.18.06.36,9.92-1.74.19,1.07,2.24-.41-.19-1.07,3-.55,2.23-.42,2.75-.53,2.22-.43,2.74-.54,2.22-.45,2.81-.57v50.58l-18.49,3.99-.87.19-18.97,4.09-.87.18-6.9,1.49c-.55-1.53-1.43-2.92-2.56-4.08l.07-.07-.31-.3-.07.07c-2.26-2.14-5.3-3.25-8.41-3.08v-.04h-.37v3.68c-2.4.31-4.53,1.73-5.73,3.83-.21.37-.39.76-.54,1.16h-3.61v-32.52h2.57v-2.41h-2.57v-13.07" />
+  <path
+     id="VGS37"
+     class="cls-1"
+     d="M533.8,482.05v-43.29l.95-.19,3.56-.74,2.22-.47,2.76-.59,2.22-.48,2.74-.6,2.21-.49,2.71-.61,1.95-.45,3-.69,2.21-.52,2.71-.65,2.2-.53,2.69-.66,2.2-.54,1.58-.39,1.74-.44.49-.12.74-.18.1.4.16.66v.64h-1.2v.19h-.36v14.36s0,1.03,0,1.03v19.4s0,.9,0,.9v11.01s0,4.65,0,4.65v1.03s0,9.62,0,9.62v.9c.06,1.27-.18,2.53-.67,3.7-.67,1.35-1.64,2.55-2.82,3.49-.89.63-1.89,1.08-2.95,1.32l-.56.12-.16-.73-11.7,2.52-.9.21v-19.72h-.37v.04l-4.69,1.01-.95-4.42-5.12,1.1-.55-2.57-8.14,1.75" />
+  <polygon
+     id="VGRS101"
+     class="cls-1"
+     points="399.96 506.08 404.87 506.08 424.32 506.08 424.32 506.94 429.36 506.94 429.36 519.92 411.34 519.92 411.34 513.01 404.31 513.01 404.31 512.93 399.96 512.93 399.96 506.08" />
+  <polygon
+     id="VGRS102"
+     class="cls-1"
+     points="410.35 520.32 429.36 520.32 429.36 531.12 429.48 531.54 426.94 532.09 426.91 532 408.2 536.04 408.2 529.59 390.64 529.59 390.64 524.41 404.12 524.41 404.12 526.88 408.35 526.88 408.35 524.39 410.35 524.39 410.35 520.32" />
+  <polygon
+     id="VGRS103"
+     class="cls-1"
+     points="385.81 540.87 385.74 540.88 385.74 529.99 407.81 529.99 407.81 536.12 385.81 540.87" />
+  <polygon
+     id="VGN01"
+     class="cls-1"
+     points="471.89 285.32 471.89 278.66 494.45 278.66 494.45 257.74 511.79 257.74 511.79 285.32 471.89 285.32" />
+  <polygon
+     id="VGN01-2"
+     data-name="VGN01"
+     class="cls-1"
+     points="453.86 271.6 463.9 271.6 463.9 278.26 453.87 278.22 453.86 271.6" />
+  <polygon
+     id="VGS47"
+     class="cls-3"
+     points="361.38 536.91 342.32 536.91 342.74 541.13 343.02 541.1 343.03 541.13 343.25 541.11 343.34 542.02 343.34 542.06 343.45 542.02 344.59 545.21 348.88 548.18 348.87 548.19 352.04 548.19 352.04 548.28 352.04 548.52 353.05 548.29 385 541.4 385.12 541.38 385.07 541.16 385.07 540.96 385.07 529.94 385.07 529.33 365.93 529.33 365.93 529.57 361.38 529.57 361.38 536.91" />
+  <path
+     id="VGS43"
+     class="cls-1"
+     d="M365.93,529.57v-.24h10.14v-7.68h-.19v-5.33h9.35v-18.06h7.07v3.23h7.16v-1.03h6.09v5.22h19.46v-23.44h-2.44v-5.18h2.44v-21.76l-.07-.94-1.09.09-6.98.52-2.84.2-6.98.44-2.84.17-7.29.37-2.86.1-7.3.16v-.14c-1.91.02-3.82.02-5.72.01l-2.27-.02c-1.12-.01-2.24-.03-3.35-.06l-2.27-.06c-1.12-.04-2.24-.08-3.35-.12l-2.27-.1-1.4-.07-.89-.05c-.35-.02-.7-.04-1.06-.06l-2.26-.14c-1.1-.07-2.2-.15-3.29-.24l-2.26-.18c-1.55-.13-3.09-.28-4.64-.43l-7.69,51.78-3.63-.61-1.03-.18-.2,1.35h-.14s0,.05,0,.05l2.18,21.55.26-.03.1.91.75,7.37h19.06v-7.34h4.55" />
+  <path
+     id="VGN12"
+     class="cls-1"
+     d="M355.07,390.41l.9-6.09.29-1.96,1.92-12.92.29-1.96.89-6,.29-1.96,1.92-12.93.29-1.96v-.07s.86-5.7.86-5.7l1.41.21.28-1.91h-.09s.13-.88.13-.88l1.7-11.44.13-.88,1.44-9.77h8.93v-5.91h28.95v-6.39h2.38v-5.88h17.02v49.56l.38.84-1.29.58-3.36,1.57-2.04.98-2.97,1.46-2.02,1.02-2.94,1.52-2,1.06-2.54,1.38-1.95,1.08-3.48,1.98-1.96,1.15.19.33-2.7,1.61-1.94,1.18-2.68,1.66-1.92,1.21-3.27,2.12-1.82,1.21-1.82,1.23-1.87,1.28-2.59,1.81-1.62,1.16-2.34,1.7-1.82,1.35-2.64,1.99-1.8,1.38c-2.63,2.04-5.22,4.13-7.77,6.26l-.07-.1-5.29,2.86" />
+  <path
+     id="VGN02"
+     class="cls-1"
+     d="M414.96,279.65h-10.1v-12.55h20.76v.11h7.2v11.69h-7.65v8.01h-10.2v-7.26M477.11,310.98l-.22-9.04h-5.4v-22.88h-6.36v3.48h-11.85v-3.94h.22v-7.65s.23,0,.23,0v-14.19h-70.24l-1.69.17c-3.41.71-6.01,3.47-6.52,6.91h-.04s0,.04,0,.04l-4.7,31.63h29.42v.12h25.45v.45h-.01v49.31l.28.63.72-.33c2.27-1.02,4.56-2.01,6.85-2.97l2.66-1.1c2.44-.99,4.9-1.95,7.37-2.88l2.62-.97c2.24-.82,4.49-1.6,6.76-2.36l2.91-.96c2.34-.76,4.68-1.48,7.04-2.18l1.06-.31c.2-.06.38-.18.49-.36v-2.1l13.33-3.56-.36-14.97" />
+  <text
+     xml:space="preserve"
+     style="font-size:5.33333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-linecap:square;paint-order:markers stroke fill"
+     x="382.8392"
+     y="335.0766"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="382.8392"
+       y="335.0766"
+       style="fill:#050000;fill-opacity:1">VGN12</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:5.33333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-linecap:square;paint-order:markers stroke fill"
+     x="438.47656"
+     y="303.38281"
+     id="text1-7"><tspan
+       sodipodi:role="line"
+       id="tspan1-6"
+       x="438.47656"
+       y="303.38281"
+       style="fill:#050000;fill-opacity:1">VGN02</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:3.47223px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-width:0.651043;stroke-linecap:square;paint-order:markers stroke fill"
+     x="471.13873"
+     y="267.28275"
+     id="text1-2"
+     transform="scale(0.96700406,1.0341218)"><tspan
+       sodipodi:role="line"
+       id="tspan1-9"
+       x="471.13873"
+       y="267.28275"
+       style="fill:#050000;fill-opacity:1;stroke-width:0.651043">VGN01-2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:4.71154px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-width:0.883415;stroke-linecap:square;paint-order:markers stroke fill"
+     x="503.22031"
+     y="269.3616"
+     id="text1-23"
+     transform="scale(0.98459027,1.0156509)"><tspan
+       sodipodi:role="line"
+       id="tspan1-0"
+       x="503.22031"
+       y="269.3616"
+       style="fill:#050000;fill-opacity:1;stroke-width:0.883415">VGN01</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:5.33333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-linecap:square;paint-order:markers stroke fill"
+     x="543.47656"
+     y="289.38281"
+     id="text1-4"><tspan
+       sodipodi:role="line"
+       id="tspan1-2"
+       x="543.47656"
+       y="289.38281"
+       style="fill:#050000;fill-opacity:1">VGN04</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:5.33333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-linecap:square;paint-order:markers stroke fill"
+     x="496.47656"
+     y="311.38281"
+     id="text1-44"><tspan
+       sodipodi:role="line"
+       id="tspan1-09"
+       x="496.47656"
+       y="311.38281"
+       style="fill:#050000;fill-opacity:1">VGN07</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:5.33333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-linecap:square;paint-order:markers stroke fill"
+     x="426.47656"
+     y="402.38281"
+     id="text1-3"><tspan
+       sodipodi:role="line"
+       id="tspan1-4"
+       x="426.47656"
+       y="402.38281"
+       style="fill:#050000;fill-opacity:1">VGC16</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:5.33333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-linecap:square;paint-order:markers stroke fill"
+     x="508.47656"
+     y="385.38281"
+     id="text1-1"><tspan
+       sodipodi:role="line"
+       id="tspan1-45"
+       x="508.47656"
+       y="385.38281"
+       style="fill:#050000;fill-opacity:1">VGC23</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:5.33333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-linecap:square;paint-order:markers stroke fill"
+     x="370.47656"
+     y="479.38281"
+     id="text1-5"><tspan
+       sodipodi:role="line"
+       id="tspan1-8"
+       x="370.47656"
+       y="479.38281"
+       style="fill:#050000;fill-opacity:1">VGS43</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:4.27618px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-width:0.801784;stroke-linecap:square;paint-order:markers stroke fill"
+     x="444.41089"
+     y="456.64511"
+     id="text1-6"
+     transform="scale(0.96619319,1.0349897)"><tspan
+       sodipodi:role="line"
+       id="tspan1-1"
+       x="444.41089"
+       y="456.64511"
+       style="fill:#050000;fill-opacity:1;stroke-width:0.801784">VGS32</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:4.61822px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-width:0.865916;stroke-linecap:square;paint-order:markers stroke fill"
+     x="443.06821"
+     y="477.09116"
+     id="text1-70"
+     transform="scale(1.009613,0.99047852)"><tspan
+       sodipodi:role="line"
+       id="tspan1-5"
+       x="443.06821"
+       y="477.09116"
+       style="fill:#050000;fill-opacity:1;stroke-width:0.865916">VGS33</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:5.33333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-linecap:square;paint-order:markers stroke fill"
+     x="495.47656"
+     y="468.38281"
+     id="text1-31"><tspan
+       sodipodi:role="line"
+       id="tspan1-7"
+       x="495.47656"
+       y="468.38281"
+       style="fill:#050000;fill-opacity:1">VGS35</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:5.33333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-linecap:square;paint-order:markers stroke fill"
+     x="543.47656"
+     y="462.38281"
+     id="text1-79"><tspan
+       sodipodi:role="line"
+       id="tspan1-24"
+       x="543.47656"
+       y="462.38281"
+       style="fill:#050000;fill-opacity:1">VGS37</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:3.60859px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-width:0.67661;stroke-linecap:square;paint-order:markers stroke fill"
+     x="499.97556"
+     y="425.09766"
+     id="text1-9"
+     transform="scale(0.82782438,1.2079857)"><tspan
+       sodipodi:role="line"
+       id="tspan1-63"
+       x="499.97556"
+       y="425.09766"
+       style="fill:#050000;fill-opacity:1;stroke-width:0.67661">VGRS101</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:3.79429px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-width:0.711429;stroke-linecap:square;paint-order:markers stroke fill"
+     x="493.97232"
+     y="440.68896"
+     id="text1-8"
+     transform="scale(0.83441069,1.1984506)"><tspan
+       sodipodi:role="line"
+       id="tspan1-73"
+       x="493.97232"
+       y="440.68896"
+       style="fill:#050000;fill-opacity:1;stroke-width:0.711429">VGRS102</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:3.45252px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-width:0.647348;stroke-linecap:square;paint-order:markers stroke fill"
+     x="416.26074"
+     y="500.72678"
+     id="text1-50"
+     transform="scale(0.93485509,1.0696845)"><tspan
+       sodipodi:role="line"
+       id="tspan1-05"
+       x="416.26074"
+       y="500.72678"
+       style="fill:#050000;fill-opacity:1;stroke-width:0.647348">VGRS103</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:3.70576px;font-family:Arial;-inkscape-font-specification:Arial;fill:#1a1a1a;fill-opacity:0;stroke:#ffffff;stroke-width:0.69483;stroke-linecap:square;paint-order:markers stroke fill"
+     x="356.99878"
+     y="550.39526"
+     id="text1-15"
+     transform="scale(1.0211616,0.97927694)"><tspan
+       sodipodi:role="line"
+       id="tspan1-3"
+       x="356.99878"
+       y="550.39526"
+       style="fill:#050000;fill-opacity:1;stroke-width:0.69483">VGS47</tspan></text>
+</svg>

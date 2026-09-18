@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 1191 842"
+   version="1.1"
+   sodipodi:docname="VictoriaGate02.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.8720964"
+     inkscape:cx="441.31527"
+     inkscape:cy="378.64328"
+     inkscape:window-width="3200"
+     inkscape:window-height="1711"
+     inkscape:window-x="2392"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <rect
+       x="420.59869"
+       y="314.40449"
+       width="20.194308"
+       height="10.097154"
+       id="rect2" />
+    <style
+       id="style1">
+      .cls-1 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .72px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+    </style>
+    <clipPath
+       id="clippath">
+      <rect
+         class="cls-2"
+         width="1191"
+         height="842"
+         id="rect1" />
+    </clipPath>
+  </defs>
+  <polyline
+     id="VGMANAGE"
+     class="cls-1"
+     points="465.26 515.15 458.96 515.15 458.96 501.34 461.66 501.34 461.66 493.93 446.35 493.93 446.35 506.93 424.14 506.93 424.14 506.11 405.3 506.11 405.3 506.08 399.11 506.08 399.11 502.35 386.07 502.35 386.07 519.95 385.58 519.95 385.58 521.52 376.44 521.52 376.44 529.05 375.87 529.05 375.87 529.09 365.92 529.09 365.92 545.34 384.76 541.28 384.71 541.03 390.04 539.88 390.04 539.81 402.36 537.15 402.64 538.45 405.13 537.92 404.85 536.61 407.35 536.08 407.63 537.38 409.5 536.98 409.21 535.67 417.95 533.79 418.23 535.09 419.78 534.76 419.5 533.45 422 532.92 422.28 534.22 423.84 533.88 423.55 532.58 433.92 530.34 434.2 531.65 437.93 530.84 437.65 529.54 438.9 529.27 439.18 530.57 441.05 530.17 440.82 529.11 440.77 528.87 446.6 527.62 446.6 527.61 446.84 527.56 446.9 527.84 453.74 526.36 454.11 526.28 454.11 526.85 454.22 527.33 456.08 526.93 455.86 525.89 462.33 524.5 462.27 524.23 463.3 524.01 463.44 523.98 463.51 523.86 463.59 523.74 463.56 523.6 463.23 522.07 463.23 520.59 465.26 520.59 465.26 519.69 465.26 515.15" />
+  <path
+     id="VGN01"
+     class="cls-1"
+     d="M464.63,330.23v-11.01c3.85.65,7.43,2.39,10.31,5.03v3.23l-10.31,2.75M453.3,278.61h.16v-.39h10.56v4.2h-10.73v-3.81M507.43,390.78l-7.36,1.56h-4.17l-1.06-5.01h-.06s-.02,0-.02,0l-.02-.03-.06-.32v-.02s.03-.02.03-.02l.32-.06h.02s.02.03.02.03v.05s6.18-1.31,6.18-1.31v-.55s-.02-.01-.02-.01h-.02s-.31,0-.31,0v-.05h.72v.05h-.33s-.02.02-.02.02h0v.54l1.27-.27h3.74l1.14,5.39M404.79,279.65h-2.93v-12.55h23.75v.21h7.16v11.56h-7.16v.79h-10.27v3.11h-3.26v.26h-7.29v-3.36M445.48,412.28h-.48s-.01,0-.01,0h0s-.38,0-.38,0v-.07h.88v.07M455.74,348.43h0c0-1.91.37-3.79,1.1-5.55.73-1.76,1.8-3.36,3.15-4.71,1.35-1.35,2.95-2.42,4.71-3.15,1.76-.73,3.65-1.1,5.55-1.1s3.79.37,5.55,1.1c1.76.73,3.36,1.8,4.71,3.15,1.35,1.35,2.42,2.95,3.15,4.71.73,1.76,1.1,3.65,1.1,5.55s-.37,3.79-1.1,5.55c-.73,1.76-1.8,3.36-3.15,4.71-1.35,1.35-2.95,2.42-4.71,3.15-1.76.73-3.65,1.1-5.55,1.1s-3.79-.37-5.55-1.1c-1.76-.73-3.36-1.8-4.71-3.15-1.35-1.35-2.42-2.95-3.15-4.71-.73-1.76-1.1-3.65-1.1-5.55M373.23,278.68l.04.02v.03s-.1.69-.1.69v.02s-.04.01-.04.01l-2.17,16.06h32.35v12.76h-3.02l.78,3.39-7.08,1.62-1.14-5.01h-15.7v2.79h-8.91s-2.05,13.76-2.05,13.76h.01s0,.01,0,.01l-3.56,23.97-.53-.08c-.09,5.47,2.76,10.57,7.47,13.36,4.71,2.79,10.55,2.85,15.31.14l-.24-.45,20.32-11.36.18-.1v63.83l18.27-.32,17.13-.91,17.08-1.51,7.67-.95v-10.28h8.02v-14.88l2.78.7v23.64l15.06-2.4,16.3-3.17,16.18-3.72,15.99-4.26.15.54.13-.04.06-.03,1.18-.42h0s.12-.06.12-.06v-.02s1.01-.72,1.01-.72l.26-.26.49-.6c.68-.95,1.05-2.1,1.05-3.27v-27.8c-.08-2.23-1.81-4.05-4.04-4.24h-.12s.05.49.05.49l-5.45.57v-46.42s19.65-1.55,19.65-1.55h.06l19.2-.51v-46.79s0-.05,0-.05c-.07-4.31-3.43-7.85-7.73-8.15h0s-.41-.02-.41-.02h-.47s0,0,0,0h-30.17v28.81h-.48v6.25h.11v2.37h-5.67v-2.24h-2.31v-1.77h-1.21l-4.8-2.7v-1.63h-8.46v-7.91h-36.43v-7.91h-6v-7.94h2.27v-.95h-9.18l-.25-.3h-.05l-.42-.55c-1.51-2.17-3.98-3.49-6.63-3.54h-.09s-.9,0-.9,0h-70.8c-2.91.05-5.58,1.6-7.05,4.11-.43.78-.75,1.62-.94,2.49l-.3,1.98-1.8,13.34" />
+  <text
+     xml:space="preserve"
+     id="text1"
+     style="fill:#050000;font-size:5.33333333px;-inkscape-font-specification:Arial;font-family:Arial;stroke-linecap:square;stroke:#ffffff;paint-order:markers stroke fill;white-space:pre;shape-inside:url(#rect2)" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.8953px;font-family:Arial;-inkscape-font-specification:Arial;fill:#050000;stroke:#ffffff;stroke-width:2.41788;stroke-linecap:square;paint-order:markers stroke fill"
+     x="488.85468"
+     y="280.93073"
+     id="text3"
+     transform="scale(0.84966742,1.1769311)"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="488.85468"
+       y="280.93073"
+       style="stroke-width:2.41788">VGN01</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.5864px;font-family:Arial;-inkscape-font-specification:Arial;fill:#050000;stroke:#ffffff;stroke-width:1.60997;stroke-linecap:square;paint-order:markers stroke fill"
+     x="449.86908"
+     y="464.51855"
+     id="text3-7"
+     transform="scale(0.88673176,1.1277368)"><tspan
+       sodipodi:role="line"
+       id="tspan3-6"
+       x="449.86908"
+       y="464.51855"
+       style="stroke-width:1.60997">VGMANAGE</tspan></text>
+</svg>
